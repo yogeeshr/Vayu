@@ -15,6 +15,7 @@
 - [Numbers.](https://github.com/yogeeshr/Vayu/#numbers)
 - [Analogy / Motivation / Quotes.](https://github.com/yogeeshr/Vayu/#analogy--motivation--quotes)
 - [Design Diagram Tools.](https://github.com/yogeeshr/Vayu/#design-diagram-tools)
+- [Other Materials.][https://github.com/yogeeshr/Vayu/#other-materials]
 
 ## Scope 
 - Architecture , High Level Design , Principles , Theorems , All about abstract and high level.
@@ -59,3 +60,5 @@
 ## Analogy / Motivation / Quotes 
 
 ## Design Diagram Tools
+
+## Other Materials
