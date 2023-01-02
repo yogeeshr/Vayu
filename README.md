@@ -62,3 +62,4 @@
 ## Design Diagram Tools
 
 ## Other Materials
+- [![system-design-primer - GitHub Repo](https://img.shields.io/static/v1?label=system-design-primer&message=GitHub+Repo&color=orange)](https://github.com/donnemartin/system-design-primer)
